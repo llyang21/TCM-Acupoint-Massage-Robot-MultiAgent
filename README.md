@@ -1,0 +1,2 @@
+# TCM-Acupoint-Massage-Robot-MultiAgent
+基于多Agent协同的中医穴位智能按摩机器人仿真与验证系统，集成YOLOv8毫米级穴位识别、SMPL-X人体建模、MWORKS生物力学仿真、灵巧手力控规划及肌电信号闭环验证模块
